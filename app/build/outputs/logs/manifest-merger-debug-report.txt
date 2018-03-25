@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-contrib-2.2.2.aar/84c64710cc917bfb6bf27a53facbaed0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:23.1.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/5ae549382296cfca9ba0495e345f9577/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/762bcdd4965469b42de252d587fb39e1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2738a37625a4372337778c7d08ee239e/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:17:1-31:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1d41c78adc3dd89b0551e184be2fab69/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.2.0.aar/2dc34d35ddaaaea13fc31a1a93ce827a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/14092045afcd387d1395d43271b8f646/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.test:rules:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/b49a629100161bed002f66a6c1fddbe8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.test:runner:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/5e19ccf79dc213f4e5ccacd3d280d1b5/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/fd288455f52ecdfb94092097229aba29/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/cf0714975d62fdaee62288fd5685290c/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:7:22-73
+application
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:9:5-44:19
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-contrib-2.2.2.aar/84c64710cc917bfb6bf27a53facbaed0/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-contrib-2.2.2.aar/84c64710cc917bfb6bf27a53facbaed0/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:design:23.1.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/5ae549382296cfca9ba0495e345f9577/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/5ae549382296cfca9ba0495e345f9577/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/762bcdd4965469b42de252d587fb39e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/762bcdd4965469b42de252d587fb39e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.test:runner:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/5e19ccf79dc213f4e5ccacd3d280d1b5/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:runner:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/5e19ccf79dc213f4e5ccacd3d280d1b5/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/fd288455f52ecdfb94092097229aba29/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/fd288455f52ecdfb94092097229aba29/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/cf0714975d62fdaee62288fd5685290c/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/cf0714975d62fdaee62288fd5685290c/AndroidManifest.xml:24:5-20
+	android:supportsRtl
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:15:9-40
+activity#example.rakshit.android.baking.MainActivity
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:16:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:20:27-74
+activity#example.rakshit.android.baking.DetailActivity
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:23:9-27:20
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:23:19-79
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:24:13-26:79
+	android:value
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:25:17-63
+service#example.rakshit.android.baking.widget.BakeryService
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:29:18-84
+service#example.rakshit.android.baking.widget.WidgetBakery
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:31:9-32:72
+	android:permission
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:31:18-83
+receiver#example.rakshit.android.baking.widget.WidgetProvider
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:34:9-43:20
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:34:19-86
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+android.appwidget.action.WIDGET
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:36:17-84
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:36:25-81
+action#android.appwidget.action.WIDGET
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:37:17-74
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:37:25-71
+meta-data#android.appwidget.provider
+ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:40:13-42:55
+	android:resource
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:42:17-52
+	android:name
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml:41:17-58
+uses-sdk
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-contrib-2.2.2.aar/84c64710cc917bfb6bf27a53facbaed0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-contrib:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-contrib-2.2.2.aar/84c64710cc917bfb6bf27a53facbaed0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:23.1.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/5ae549382296cfca9ba0495e345f9577/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/5ae549382296cfca9ba0495e345f9577/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/762bcdd4965469b42de252d587fb39e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/762bcdd4965469b42de252d587fb39e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2738a37625a4372337778c7d08ee239e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2738a37625a4372337778c7d08ee239e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:21:5-23:54
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1d41c78adc3dd89b0551e184be2fab69/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1d41c78adc3dd89b0551e184be2fab69/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.2.0.aar/2dc34d35ddaaaea13fc31a1a93ce827a/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.2.0.aar/2dc34d35ddaaaea13fc31a1a93ce827a/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/14092045afcd387d1395d43271b8f646/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-core-2.2.2.aar/14092045afcd387d1395d43271b8f646/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/b49a629100161bed002f66a6c1fddbe8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:rules:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/b49a629100161bed002f66a6c1fddbe8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/5e19ccf79dc213f4e5ccacd3d280d1b5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/5e19ccf79dc213f4e5ccacd3d280d1b5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/fd288455f52ecdfb94092097229aba29/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-2.2.2.aar/fd288455f52ecdfb94092097229aba29/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/cf0714975d62fdaee62288fd5685290c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/cf0714975d62fdaee62288fd5685290c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rakshit/Desktop/Repos/MyBakery/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2738a37625a4372337778c7d08ee239e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2738a37625a4372337778c7d08ee239e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/d84ed3f008b0189d98270d377259dfbf/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4dba245703a632f8e43ccd7865a6af61/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/664478c8a55c20acb6b5791753a52658/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/e50280ad546c64a672eeb0626ccf92f6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/443e848e651c1ef8890549871ff3e959/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/1340a40676d145e9175359e10799e2fb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/338c400282622682369fca638c7c9c06/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aea1762b6222611b526c28e56ed410bc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d23230797b31d6742b2bc8759a1a09cf/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/rakshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b19f9e7a16f743b848ad45e1ffcd53ec/AndroidManifest.xml:26:9-47

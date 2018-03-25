@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.rakshit.android.baking.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for example.rakshit.android.baking"
+        android:targetPackage="example.rakshit.android.baking" />
+
+    <application
+        android:debuggable="true"
+        android:label="Intents" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

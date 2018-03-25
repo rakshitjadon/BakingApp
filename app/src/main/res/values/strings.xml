@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBakery</string>
+    <string name="two_pane">two_pane</string>
+    <string name="measure">MEASURE</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">STEPS</string>
+    <string name="open_bakery_app_to_set_widget">OPEN BAKERY APP TO SET WIDGET</string>
+</resources>
