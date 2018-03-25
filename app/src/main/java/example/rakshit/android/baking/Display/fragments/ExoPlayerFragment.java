@@ -174,7 +174,7 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
                     null,
                     null);
             exoPlayer.prepare(mediaSource);
-            exoPlayer.setPlayWhenReady(true);
+            exoPlayer.setPlayWhenReady(videoPlayed);
 
         }
     }
