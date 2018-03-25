@@ -4,6 +4,7 @@ package example.rakshit.android.baking.Adapters;
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
@@ -19,6 +20,7 @@ public class RecipeAdapter$RecipeHolder_ViewBinding implements Unbinder {
     this.target = target;
 
     target.dish_name = Utils.findRequiredViewAsType(source, R.id.dish_name, "field 'dish_name'", TextView.class);
+    target.thumbnail = Utils.findRequiredViewAsType(source, R.id.image_view, "field 'thumbnail'", ImageView.class);
   }
 
   @Override
@@ -29,5 +31,6 @@ public class RecipeAdapter$RecipeHolder_ViewBinding implements Unbinder {
     this.target = null;
 
     target.dish_name = null;
+    target.thumbnail = null;
   }
 }

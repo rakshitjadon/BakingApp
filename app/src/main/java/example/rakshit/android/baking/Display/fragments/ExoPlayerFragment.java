@@ -63,6 +63,7 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
         if (getArguments()!= null) {
             stones = getArguments().getParcelable("Stones");
         }
+        ImageView thumbnailURL = (ImageView) view.findViewById(R.id.thumbnail);
         assert stones != null;
         videoUri = Uri.parse(stones.getVideoURL());
         videoPlayer = (SimpleExoPlayerView) view.findViewById(R.id.video_player);
@@ -83,9 +84,12 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
                 if (isFile(stones.getThumbnailURL())) {
                     initialisePlayer(Uri.parse(stones.getThumbnailURL()));
                 } else {
-                    //videoPlayer.setVisibility(View.INVISIBLE);
+                    Glide.with(getContext())
+                            .load(stones.getThumbnailURL())
+                            .into(thumbnailURL);
                     Toast.makeText(getContext(), "NO VIDEO AVAILABLE", Toast.LENGTH_SHORT).show();}
-            } else {}
+            } else {
+        }
         if (stones.getVideoURL() != null && !stones.getVideoURL().isEmpty()) {
                 initialisePlayer(videoUri);}
 
@@ -104,12 +108,10 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
     public void onResume() {
         super.onResume();
         if (videoUri != null) {
-            if (exoPlayer != null) {
-//                initializeVideoPlayer(videoUri);
-                exoPlayer.seekTo(position);
-            } else {
+            if (exoPlayer == null) {
                 initialisePlayer(videoUri);
             }
+            exoPlayer.seekTo(position);
         }
     }
 
