@@ -24,7 +24,13 @@ public class WidgetBakery extends RemoteViewsService {
         private ThingsRemoteViewsFactory(Context context, Intent intent) {
             mContext = context;
         }
-
+        @Override
+        public RemoteViews getViewAt(int position) {
+            RemoteViews rv = new RemoteViews(mContext.getPackageName(), R.layout.widget_item);
+            rv.setTextViewText(R.id.widget_item, thingsRemoteList.get(position));
+            rv.setOnClickFillInIntent(R.id.widget_item, new Intent());
+            return rv;
+        }
         @Override
         public void onCreate() {
 
@@ -45,13 +51,6 @@ public class WidgetBakery extends RemoteViewsService {
             return thingsRemoteList.size();
         }
 
-        @Override
-        public RemoteViews getViewAt(int position) {
-            RemoteViews rv = new RemoteViews(mContext.getPackageName(), R.layout.widget_item);
-            rv.setTextViewText(R.id.widget_item, thingsRemoteList.get(position));
-            rv.setOnClickFillInIntent(R.id.widget_item, new Intent());
-            return rv;
-        }
 
         @Override
         public RemoteViews getLoadingView() {
