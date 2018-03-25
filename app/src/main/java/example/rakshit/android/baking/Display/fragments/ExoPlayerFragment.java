@@ -50,6 +50,7 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
     private MediaSessionCompat mediaSessionCompat;
     private PlaybackStateCompat.Builder playbackBuilder;
     long position;
+    boolean videoPlayed;
     public ExoPlayerFragment() {}
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -128,7 +129,7 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
     public void onPause() {
         super.onPause();
         if (exoPlayer != null) {
-            position = (int) exoPlayer.getCurrentPosition();
+            position = exoPlayer.getCurrentPosition();
         }
         releasePlayer();
 
@@ -174,10 +175,12 @@ public class ExoPlayerFragment extends Fragment implements ExoPlayer.EventListen
                     null);
             exoPlayer.prepare(mediaSource);
             exoPlayer.setPlayWhenReady(true);
+
         }
     }
     private void releasePlayer() {
         if (exoPlayer != null) {
+           videoPlayed = exoPlayer.getPlayWhenReady();
             exoPlayer.stop();
             exoPlayer.release();
             exoPlayer = null;
